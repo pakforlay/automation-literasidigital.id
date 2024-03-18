@@ -1,0 +1,26 @@
+{
+  "name": "@pakforlay/automation-literasidigital.id",
+  "version": "0.0.1",
+  "description": "Automation Submition Form Data from Literasi Digital",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakforlay/automation-literasidigital.id.git"
+  },
+  "author": "PakForlay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pakforlay/automation-literasidigital.id/issues"
+  },
+  "homepage": "https://github.com/pakforlay/automation-literasidigital.id#readme",
+  "dependencies": {
+    "delay": "^6.0.0",
+    "moment": "^2.30.1",
+    "puppeteer": "^21.11.0",
+    "readline-sync": "^1.4.10"
+  }
+}

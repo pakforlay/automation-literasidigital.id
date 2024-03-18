@@ -1,2 +1,2 @@
 # automation-literasidigital.id
-Automation Submition Form Data from Literasi Digital
+Automation Registration and Submition Form Data from Literasi Digital
